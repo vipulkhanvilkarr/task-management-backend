@@ -1,7 +1,7 @@
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'task_management',
+        'NAME': 'task_management_trial',
         'USER': 'root',
         'PASSWORD': 'Vipul@123',
         'HOST': 'localhost',
